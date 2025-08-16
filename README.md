@@ -1,4 +1,4 @@
-# E-Commerce Store Analysis by Karan Raj
+# E-Commerce Store Analysis by Yash Sharma
 
 ## Description
 
